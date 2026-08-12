@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+    <passive id="1" name="Jowe" gfx="Jowe.png" width="32" height="32" description="He so small he only needs one popcorn." quality="3" cache="damage speed size">
+        <animation frames="1" />
+    </passive>
+</items>
